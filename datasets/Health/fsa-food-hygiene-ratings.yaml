@@ -1,0 +1,30 @@
+name: "Food Hygiene Rating Scheme (FHRS) API"
+description: "Food hygiene ratings for ~600,000 establishments across England, Wales, Northern Ireland, and Scotland. Covers restaurants, takeaways, pubs, hotels, schools, hospitals, and other food businesses inspected by local authorities. RESTful JSON API with no authentication required."
+source_url: "https://api.ratings.food.gov.uk/"
+open_data: true
+made_by_ukgov: true
+topic: "Food Safety"
+format: "API"
+is_active: true
+licence: "Open Government Licence v3.0"
+subtopics:
+  - "Food Hygiene"
+  - "Public Health"
+  - "Restaurant Ratings"
+  - "Local Authority Inspections"
+update_frequency: "Daily"
+coverage:
+  spatial: "United Kingdom"
+tags:
+  - "food"
+  - "hygiene"
+  - "ratings"
+  - "restaurants"
+  - "fsa"
+  - "inspections"
+  - "local authorities"
+use_case_ideas:
+  - "Food hygiene comparison tools for consumers"
+  - "Local authority performance benchmarking"
+  - "Rating trend analysis over time"
+  - "Geospatial mapping of food safety standards"
